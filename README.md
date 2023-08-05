@@ -1,2 +1,3 @@
 # .github
-GitHub action starter workflows
+
+Repository of starter workflows
