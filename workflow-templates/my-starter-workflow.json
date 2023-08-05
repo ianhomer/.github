@@ -2,6 +2,6 @@
   "name": "My starter workflow",
   "description": "Example of a starter workflow",
   "iconName": "my-starter",
-  "categories": ["try"],
+  "categories": ["Automation"],
   "filePatterns": ["package.json$"]
 }
